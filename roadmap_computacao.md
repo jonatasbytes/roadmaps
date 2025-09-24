@@ -356,21 +356,96 @@
 
 ---
 
-## 📖 Ordem de Leitura Sugerida
 
-### Primeiro (Base absoluta):
-1. Code: The Hidden Language - Petzold
-2. Make: Electronics - Platt
-3. Computer Systems: A Programmer's Perspective - Bryant
+# 📚 LISTA COMPLETA DE LIVROS - ROADMAP PRIMÁRIO
 
-### Segundo (Core knowledge):
-4. Computer Organization and Design - Patterson & Hennessy
-5. Operating Systems: Three Easy Pieces - Remzi
-6. The C Programming Language - K&R
+## **FUNDAMENTOS ABSOLUTOS**
+1. Code: The Hidden Language - Charles Petzold
+2. But How Do It Know? - J. Clark Scott  
+3. The Elements of Computing Systems - Nisan & Schocken
 
-### Terceiro (Especialização):
-7. Programming from the Ground Up - Bartlett
-8. Advanced Programming in the UNIX Environment - Stevens
+## **ELETRÔNICA E HARDWARE**
+4. Make: Electronics - Charles Platt
+5. Practical Electronics for Inventors - Scherz & Monk
+6. The Art of Electronics - Horowitz & Hill
+7. Digital Design and Computer Architecture - Harris & Harris
+8. Digital Logic and Computer Design - M. Morris Mano
+9. Introduction to Electric Circuits - Dorf & Svoboda
 
-**Total: ~25-30 livros principais para domínio completo** 📚🔥
+## **ARQUITETURA DE COMPUTADORES**
+10. Computer Organization and Design: RISC-V Edition - Patterson & Hennessy
+11. Computer Architecture: A Quantitative Approach - Hennessy & Patterson
+12. Structured Computer Organization - Andrew Tanenbaum
+13. Computer Systems Architecture - Rob Williams
+14. Inside the Machine - Jon Stokes
+
+## **SISTEMAS DE COMPUTADOR (NÚCLEO)**
+15. Computer Systems: A Programmer's Perspective - Bryant & O'Hallaron
+
+## **ASSEMBLY E LOW-LEVEL**
+16. Programming from the Ground Up - Jonathan Bartlett
+17. Assembly Language for x86 Processors - Kip Irvine
+18. Professional Assembly Language - Richard Blum
+19. The Art of Assembly Language - Randall Hyde
+20. Modern X86 Assembly Language Programming - Daniel Kusswurm
+21. ARM Assembly Language - William Hohl
+
+## **SISTEMAS OPERACIONAIS**
+22. Operating Systems: Three Easy Pieces - Remzi Arpaci-Dusseau
+23. Modern Operating Systems - Andrew Tanenbaum
+24. Operating System Concepts - Silberschatz, Galvin & Gagne
+25. The Design and Implementation of the FreeBSD Operating System - McKusick
+26. Understanding the Linux Kernel - Bovet & Cesati
+27. Linux Kernel Development - Robert Love
+
+## **HARDWARE HANDS-ON**
+28. PC Hardware: The Complete Reference - Craig Zacker & John Rourke
+29. Computer Hardware: Installing, Maintaining, Troubleshooting - Andrews
+30. Upgrading and Repairing PCs - Scott Mueller
+31. CompTIA A+ Certification - Mike Meyers
+
+## **PROGRAMAÇÃO C/SYSTEMS**
+32. The C Programming Language - Kernighan & Ritchie (K&R)
+33. Advanced Programming in the UNIX Environment - Stevens & Rago
+34. Linux System Programming - Robert Love
+35. Systems Programming in Unix/Linux - K.C. Wang
+36. Expert C Programming - Peter van der Linden
+37. 21st Century C - Ben Klemens
+
+## **EMBEDDED SYSTEMS**
+38. Programming Embedded Systems - Barr & Massa
+39. Real-Time Systems - Jane Liu
+40. Making Embedded Systems - Elecia White
+41. Embedded Systems Architecture - Tammy Noergaard
+
+## **PERFORMANCE E OTIMIZAÇÃO**
+42. Optimizing Compiler Techniques - Steven Muchnick
+
+## **ESPECIALIZAÇÕES AVANÇADAS**
+43. The Shellcoder's Handbook - Koziol et al.
+44. Compilers: Principles, Techniques, and Tools - Aho et al.
+45. Computer Networks - Andrew Tanenbaum
+
+---
+
+## **📖 ORDEM DE PRIORIDADE PARA BIBLIOTECA**
+
+### **ESSENCIAIS (procure primeiro):**
+1. **Computer Systems: A Programmer's Perspective** - Bryant & O'Hallaron
+2. **The C Programming Language** - Kernighan & Ritchie (K&R)
+3. **Computer Organization and Design: RISC-V Edition** - Patterson & Hennessy
+4. **Operating Systems: Three Easy Pieces** - Remzi (disponível grátis online)
+5. **Code: The Hidden Language** - Charles Petzold
+
+### **MUITO IMPORTANTES:**
+6. **Make: Electronics** - Charles Platt
+7. **Digital Design and Computer Architecture** - Harris & Harris
+8. **Programming from the Ground Up** - Jonathan Bartlett
+9. **Advanced Programming in the UNIX Environment** - Stevens & Rago
+10. **Modern Operating Systems** - Andrew Tanenbaum
+
+### **COMPLEMENTARES:**
+- Todos os outros da lista acima
+
+---
 
