@@ -28,7 +28,7 @@
 
 ### **📚 Livros Fase -1 (ORDEM CORRIGIDA):**
 1. **"Basic Mathematics" - Serge Lang** (foundation absoluta)
-2. **"Arithmetic for the Practical Man" - J.E. Thompson** (técnicas)
+2. **"Secrets of Mental Math" - Benjamin** (técnicas)
 3. **"Pre-Algebra" - Richard Rusczyk (Art of Problem Solving)** (problem-solving)
 4. **"Mathematics: A Human Endeavor" - Harold Jacobs** (motivacional)
 
