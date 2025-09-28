@@ -3,10 +3,50 @@
 
 ---
 
+## **FASE -1: PRÉ-ÁLGEBRA ABSOLUTA (1-2 meses)**
+*Para quem quer começar do ZERO TOTAL*
+
+### **-1.1 Aritmética Fundamental**
+- **Números naturais, inteiros, racionais**: Operações básicas dominadas
+- **Frações**: Adição, subtração, multiplicação, divisão - fluência total
+- **Decimais e percentuais**: Conversões, cálculos mentais rápidos
+- **Potências e raízes**: Expoentes inteiros, raízes quadradas básicas
+- **Ordem das operações**: PEMDAS internalizado completamente
+
+### **-1.2 Introdução à Álgebra**
+- **Variáveis e expressões**: x, y, z como números "desconhecidos"
+- **Equações lineares simples**: ax + b = c, resolução sistemática
+- **Sistemas 2x2 básicos**: Substituição e eliminação
+- **Inequações básicas**: >, <, ≥, ≤ com soluções gráficas
+- **Coordenadas cartesianas**: Plano xy, plotagem de pontos
+
+### **-1.3 Geometria Básica**
+- **Figuras planas**: Triângulos, retângulos, círculos - perímetros e áreas
+- **Figuras espaciais**: Cubos, esferas, cilindros - volumes básicos
+- **Teorema de Pitágoras**: Aplicação em problemas reais
+- **Semelhança**: Proporcionalidade e escala
+
+### **📚 Livros Fase -1:**
+1. **"Pre-Algebra" - Richard Rusczyk (Art of Problem Solving)**
+2. **"Basic Mathematics" - Serge Lang**
+3. **"Arithmetic for the Practical Man" - J.E. Thompson**
+4. **"Mathematics: A Human Endeavor" - Harold Jacobs** (motivacional)
+
+### **⚡ Teste de Prontidão para Fase 0:**
+```bash
+✅ Resolve equações como 3(2x-5) = 4x + 7 mentalmente
+✅ Calcula área de figuras compostas sem hesitar
+✅ Manipula frações complexas com facilidade
+✅ Entende conceito de variável intuitivamente
+✅ Plota pontos e retas no plano cartesiano
+```
+
+---
+
 ## **FASE 0: PRÉ-CÁLCULO ABSOLUTO (2-3 meses)**
 *Foundation que 90% pula e se ferra depois*
 
-### **0.1 Aritmética e Álgebra Elementar PERFEITA**
+### **0.1 Álgebra Intermediária PERFEITA**
 - **Números**: Naturais, inteiros, racionais, irracionais, reais, complexos
 - **Operações**: Propriedades distributiva, associativa, comutativa (DEEP understanding)
 - **Equações**: Linear, quadrática, polinomiais, exponenciais, logarítmicas
@@ -425,6 +465,19 @@ Após este roadmap, você será capaz de:
 
 ---
 
-:q
+# 🏆 **RESULTADO FINAL**
+
+Com este roadmap completo, você alcançará:
+
+**🧙‍♂️ WIZARD LEVEL MATEMÁTICO:**
+- Domínio absoluto de todas áreas fundamentais
+- Capacidade de research em qualquer fronteira
+- Pensamento matemático profundo e rigoroso
+- Ponte natural para física teórica e computação quântica
+- Base para contribuições originais à ciência
+
+**Você não será apenas um "programador que sabe matemática" ou "matemático que programa" - será um CIENTISTA COMPLETO capaz de atacar os problemas mais fundamentais da realidade!**
+
 *"A matemática é a linguagem com que Deus escreveu o universo"* - Galileu
 
+**AGORA VÁ E DOMINE O UNIVERSO MATEMÁTICO!** 🚀🧙‍♂️
