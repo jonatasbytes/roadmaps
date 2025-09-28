@@ -26,10 +26,10 @@
 - **Teorema de Pitágoras**: Aplicação em problemas reais
 - **Semelhança**: Proporcionalidade e escala
 
-### **📚 Livros Fase -1:**
-1. **"Pre-Algebra" - Richard Rusczyk (Art of Problem Solving)**
-2. **"Basic Mathematics" - Serge Lang**
-3. **"Arithmetic for the Practical Man" - J.E. Thompson**
+### **📚 Livros Fase -1 (ORDEM CORRIGIDA):**
+1. **"Basic Mathematics" - Serge Lang** (foundation absoluta)
+2. **"Arithmetic for the Practical Man" - J.E. Thompson** (técnicas)
+3. **"Pre-Algebra" - Richard Rusczyk (Art of Problem Solving)** (problem-solving)
 4. **"Mathematics: A Human Endeavor" - Harold Jacobs** (motivacional)
 
 ### **⚡ Teste de Prontidão para Fase 0:**
