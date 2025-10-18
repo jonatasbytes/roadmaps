@@ -9,3 +9,6 @@
 - [Inglês](https://github.com/jonatasbytes/roadmaps/blob/main/english_grammar_roadmap.md)
 - [Computação low-level](https://github.com/jonatasbytes/roadmaps/blob/main/roadmap_computacao.md)
 - [Violino](https://github.com/jonatasbytes/roadmaps/blob/main/violin_roadmap.md)
+- [C#](https://github.com/jonatasbytes/roadmaps/blob/main/csharp.md)
+- [Java](https://github.com/jonatasbytes/roadmaps/blob/main/java.md)
+- [Mecânica](https://github.com/jonatasbytes/roadmaps/blob/main/mecanica.md)
