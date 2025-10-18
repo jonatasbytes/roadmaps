@@ -12,3 +12,5 @@
 - [C#](https://github.com/jonatasbytes/roadmaps/blob/main/csharp.md)
 - [Java](https://github.com/jonatasbytes/roadmaps/blob/main/java.md)
 - [Mecânica](https://github.com/jonatasbytes/roadmaps/blob/main/mecanica.md)
+- [Psicanálise](https://github.com/jonatasbytes/roadmaps/blob/main/psi.md)
+- [Arte Digital](https://github.com/jonatasbytes/roadmaps/blob/main/art-roadmap.md)
