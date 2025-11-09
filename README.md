@@ -16,3 +16,5 @@
 - [Arte Digital](https://github.com/jonatasbytes/roadmaps/blob/main/art-roadmap.md)
 - [Database](https://github.com/jonatasbytes/roadmaps/blob/main/db.md)
 - [Eletrônica](https://github.com/jonatasbytes/roadmaps/blob/main/eletronics.md)
+- [C/C++](https://github.com/jonatasbytes/roadmaps/blob/main/cpp.md)
+- [Cloud e Devops](https://github.com/jonatasbytes/roadmaps/blob/main/cloud.md)
