@@ -5,6 +5,7 @@
 - Eu também posteriormente posso adicionar um índice conforme necessidade de tópicos.
 
 ## Índice de roadmaps
+- [Português](https://github.com/jonatasbytes/roadmaps/blob/main/portugues.md)
 - [Matemática](https://github.com/jonatasbytes/roadmaps/blob/main/mathematics-wizard-roadmap.md)
 - [Inglês](https://github.com/jonatasbytes/roadmaps/blob/main/english_grammar_roadmap.md)
 - [Computação low-level](https://github.com/jonatasbytes/roadmaps/blob/main/roadmap_computacao.md)
